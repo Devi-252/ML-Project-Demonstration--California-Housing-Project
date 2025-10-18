@@ -1,0 +1,14 @@
+Variable,Type,Test,Statistic,p-value,Significant
+Credit_History,Numeric,Mann-Whitney,14211.0,0.0,True
+Property_Area,Categorical,Chi-square,10.932,0.0042,True
+Married,Categorical,Z-test (proportions),-2.171,0.0299,True
+CoapplicantIncome,Numeric,Mann-Whitney,11070.0,0.0488,True
+Gender,Categorical,Z-test (proportions),-1.494,0.1351,False
+LoanAmount,Numeric,Mann-Whitney,10739.0,0.1609,False
+Education,Categorical,Z-test (proportions),0.913,0.3612,False
+Self_Employed,Categorical,Z-test (proportions),0.835,0.4038,False
+Loan_ID,Categorical,Chi-square,308.0,0.4732,False
+Unnamed: 0,Numeric,Mann-Whitney,9565.0,0.7994,False
+Dependents,Categorical,Chi-square,0.739,0.864,False
+Loan_Amount_Term,Numeric,Mann-Whitney,9697.0,0.9152,False
+ApplicantIncome,Numeric,Mann-Whitney,9715.0,0.9662,False

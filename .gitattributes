@@ -1,0 +1,2 @@
+credit_card_fraudDetetction/creditcard.csv filter=lfs diff=lfs merge=lfs -text
+identifyFakenewsNaiveBayes/dataset/Fake.csv filter=lfs diff=lfs merge=lfs -text
